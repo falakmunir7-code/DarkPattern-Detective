@@ -43,6 +43,4 @@ The dataset contains 2,356 text records with labels and pattern categories. The 
 
 ## 👩‍💻 Developer
 
-**Falak Munir**
-
-Falak Munir Ahmed Tanga
+**Falak Munir Ahmed Tanga**
